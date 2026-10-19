@@ -6,7 +6,17 @@ My decision to choose the topic of ***fishing*** in this project is partially du
 
 
 ## Engineering Design Process
-One of my priorities at the moment is to compare the fishing techniques used from the start and the fishing techniques used today. The major problem  is 
+One of my priorities at the moment is to compare the fishing techniques used from the start and the fishing techniques used today. The major problem is how some people do not understand the impact of overfishing, illegal fishing and habitat destruction caused with certain uses of fishing technology that could be completely avoided.
+
+## Skills
+A skill that I learned was how to research and find legitimate sites to aid my research. 
+
+A skill that I am hoping to learn is how I would be able to connect my topic of fishing to major problems in the world that doesn't correspond with fishing while making my presentation positive and intriguing.
+
+## Summary
+To conclude, I look forward to creating something that I am genuinely passionate about and willing to do at some point in the future as a side hustle or hobby.
+
+
 [Next](entry02.md)
 
 [Home](../README.md)
