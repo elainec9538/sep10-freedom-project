@@ -8,7 +8,7 @@ Topic: **Fishing**
 ## Part A: existing technology
 
 ##### Software
-* Tech
+* The first google search of "Fishing Tracker" led me to a website called [_Global Fishing Watch_](https://globalfishingwatch.org/platform/map?latitude=19&longitude=26&zoom=1.49).
   * Detail
   * [image text](image URL)
 
