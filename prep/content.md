@@ -10,7 +10,7 @@ Topic: **Fishing**
 ##### Software
 * The first google search of "Fishing Tracker" led me to a website called [_Global Fishing Watch_](https://globalfishingwatch.org/platform/map?latitude=19&longitude=26&zoom=1.49).
   * This provides information on the areas with the most fishing activity with the usage of satalites. 
-  * [image text]((https://avatars.githubusercontent.com/u/9467707?s=200&v=4))
+  * [gbf](https://avatars.githubusercontent.com/u/9467707?s=200&v=4)
 
 ##### Hardware
 * Tech
