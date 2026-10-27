@@ -21,10 +21,10 @@ Topic: **Fishing**
     * Monitors systems, electronic reports, video cameras, gear sensors, and automated image processing, data collection technologies to improve timeliness, quality and accessibility of data.
   * __Electronic Reporting__, a more accurate way to collect data from commercial fishing fleets and send it to NOAA Fisheries and state marine resource agencies.
     * Fishery-dependent data used to be recorded using paper and logbooks until today, where it is being transitioned to tablets and other devices for a much more faster, efficient, and collection of accurate data. This allows for people in the fishing industry to get more information before they fish.
-  * There are much more other technologies used in this [link](https://www.fisheries.noaa.gov/insight/advanced-technologies).
+  * There are much more other technologies used in this [link](https://www.fisheries.noaa.gov/insight/advanced-technologies), like the use of satalites to assume the amount of marine life in one area.
 
 ##### Hardware
-* Tech
+* Assuming that hardware was technology, I frantically searched for "fishing technology" in the search bar. But, I barely gained a result and would inevitably use wikipedia and head to the references section. There, I found a seemingly legit site explaining the technology used for fishing, called, [_Food and Agriculture Organization of the United States_](https://www.fao.org/home/en/).
   * Detail
   * [image text](image URL)
 
