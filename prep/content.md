@@ -21,7 +21,7 @@ Topic: **Fishing**
     * Monitors systems, electronic reports, video cameras, gear sensors, and automated image processing, data collection technologies to improve timeliness, quality and accessibility of data.
   * __Electronic Reporting__, a more accurate way to collect data from commercial fishing fleets and send it to NOAA Fisheries and state marine resource agencies.
     * Fishery-dependent data used to be recorded using paper and logbooks until today, where it is being transitioned to tablets and other devices for a much more faster, efficient, and collection of accurate data. This allows for people in the fishing industry to get more information before they fish.
-  
+  * There are much more other technologies used in this [link](https://www.fisheries.noaa.gov/insight/advanced-technologies).
 
 ##### Hardware
 * Tech
