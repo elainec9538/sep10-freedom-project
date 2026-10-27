@@ -14,7 +14,7 @@ Topic: **Fishing**
     *  Watch over the ocean.
     *  Govern marine resources to support biodiversity and a sustainable enviornment.
     *  Share data and analysis tools for scientific research.
-  * [Global Fishing Watch image](https://avatars.githubusercontent.com/u/9467707?s=200&v=4)
+  * [https://avatars.githubusercontent.com/u/9467707?s=200&v=4](https://avatars.githubusercontent.com/u/9467707?s=200&v=4)
 
 * The next search I made was "Fishing Technology Computer," because it connects to fishing and technolgy at the same time. This search led me to [_NOAA Fisheries_](https://www.fisheries.noaa.gov/national/fisheries-observers/electronic-technologies), a website that explains the usage of electronic tools to collect fishery-dependent data.
   * __Electronic monitoring__, basically to help fishers catch fish with more accurate information at the right times with the usage of:
@@ -33,7 +33,7 @@ Topic: **Fishing**
   * Angling, the usage of a hook attached to a string that often has bait attached to it.
   * Trapping, the usage of traps to catch fish.
 
-  * [Food and Agriculture Organization of the United States image](https://www.un.org/sites/un2.un.org/files/field/image/fao_logo_3lines_en1.png)
+  * [https://www.un.org/sites/un2.un.org/files/field/image/fao_logo_3lines_en1.png](https://www.un.org/sites/un2.un.org/files/field/image/fao_logo_3lines_en1.png)
 
 ## Part B: possible future technology
 * Idea
