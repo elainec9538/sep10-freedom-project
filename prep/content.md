@@ -14,9 +14,12 @@ Topic: **Fishing**
     *  Watch over the ocean.
     *  Govern marine resources to support biodiversity and a sustainable enviornment.
     *  Share data and analysis tools for scientific research.
-  * [Global Fishing Watch image](!https://avatars.githubusercontent.com/u/9467707?s=200&v=4)
+  * [Global Fishing Watch image](https://avatars.githubusercontent.com/u/9467707?s=200&v=4)
 
-* The next search I made was "Fishing Technology Computer," because it connects to fishing and technolgy at the same time. This search led me to [_NOAA Fisheries_](https://www.fisheries.noaa.gov/national/fisheries-observers/electronic-technologies)
+* The next search I made was "Fishing Technology Computer," because it connects to fishing and technolgy at the same time. This search led me to [_NOAA Fisheries_](https://www.fisheries.noaa.gov/national/fisheries-observers/electronic-technologies), a website that explains the usage of electronic tools to collect fishery-dependent data.
+  * Electronic monitoring, basically to help fishers catch fish with more accurate information at the right times with the usage of:
+    * Monitors systems, electronic reports, video cameras, gear sensors, and automated image processing, data collection technologies to improve timeliness, quality and accessibility of data.
+  * 
   
 
 ##### Hardware
