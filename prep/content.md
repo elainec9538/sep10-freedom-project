@@ -25,7 +25,14 @@ Topic: **Fishing**
 
 ##### Hardware
 * Assuming that hardware was technology, I frantically searched for "fishing technology" in the search bar. But, I barely gained a result and would inevitably use wikipedia and head to the references section. There, I found a seemingly legit site explaining the technology used for fishing, called, [_Food and Agriculture Organization of the United States_](https://www.fao.org/home/en/).
-  * Detail
+  * Hand-gathering, which is gathering sea foods by hand. Here are two given types of it:
+    * Picking kelp and shellfish off the beach.
+    * Digging for clams or crabs.
+  * Spearfishing, where people were hunting for fish with spears. This was more common in the past.
+  * Netting, where someone hauls in a large amount of fish with large nets.
+  * Angling, the usage of a hook attached to a string that often has bait attached to it.
+  * Trapping, the usage of traps to catch fish.
+
   * [image text](image URL)
 
 ## Part B: possible future technology
