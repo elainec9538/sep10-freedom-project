@@ -33,7 +33,7 @@ Topic: **Fishing**
   * Angling, the usage of a hook attached to a string that often has bait attached to it.
   * Trapping, the usage of traps to catch fish.
 
-  * [image text](image URL)
+  * [Food and Agriculture Organization of the United States image](https://www.un.org/sites/un2.un.org/files/field/image/fao_logo_3lines_en1.png)
 
 ## Part B: possible future technology
 * Idea
