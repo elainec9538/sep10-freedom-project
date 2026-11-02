@@ -32,7 +32,7 @@ Topic: **Fishing**
   * Netting, where someone hauls in a large amount of fish with large nets.
   * Angling, the usage of a hook attached to a string that often has bait attached to it.
   * Trapping, the usage of traps to catch fish.
-  * [https://www.un.org/sites/un2.un.org/files/field/image/fao_logo_3lines_en1.png](!https://trackwellfims.com/wp-content/uploads/2025/06/ers-pic-1.jpg)
+  * [https://www.un.org/sites/un2.un.org/files/field/image/fao_logo_3lines_en1.png](https://trackwellfims.com/wp-content/uploads/2025/06/ers-pic-1.jpg)
     
 * The next search I made was "fishing hardware technology," where I'd find a blog that discusses the tech. Here is the link: [Top Fishing Gear Innovations](https://ardentoutdoors.com/blogs/news/top-fishing-gear-innovations-2026?srsltid=AYCX9vKCq2lLV1mgqc4H9SFVHy7AswFFw3FLqebKB5Jd6n6A-XKDBV4f)
   * Smart Reels: tracks how someone fishes to help someone see patterns on their fishing.
