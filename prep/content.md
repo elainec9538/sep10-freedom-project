@@ -56,7 +56,7 @@ Topic: **Fishing**
     * entanglement of animals
 
 ### Sorting:
-#### Reliability (most likely to help you survive if you're stuck on a stranded island)
+#### Reliability and Usefulness (most likely to help you survive if you're stuck on a stranded island)
 * Least Reliable to Most Reliable
   * Spearfishing
     * Hunting for fish with spears.
@@ -71,7 +71,14 @@ Topic: **Fishing**
     * Reliability varies depending on the type of area you are dealing with. Oftentimes, the sea foods are deeper in the waters. Usually, clams could be found at least five feet in the water with low tides.
   * Angling
     * The usage of a hook attached to a string that often has bait attached to it OR where you use a rod to fish. This is doing by the usage of fishing rods.
-      
+
+#### Efficiency
+* Least to Most Efficient
+  * 
+### Durability
+* Least to most durable
+  * 
+
+
 ## Part B: possible future technology
 
-Reliability (most likely to help you survive if you're stuck on a stranded island), Efficiency, Durability, Usefulness
