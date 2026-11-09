@@ -55,9 +55,13 @@ Topic: **Fishing**
     * promote sustainable fishing
     * entanglement of animals
 
-## Part B: possible future technology
-### Complexity
-* Most Complex
-  * Detail
+### Sorting:
+#### Reliability (most likely to help you survive if you're stuck on a stranded island)
+* Least Reliable to Most Reliable
+  * Spearfishing
+    * Hunting for fish with spears.
+  *  
 
-Age, Popularity, Reliability (most likely to help you survive if you're stuck on a stranded island), Efficiency, Durability, Usefulness
+## Part B: possible future technology
+
+Reliability (most likely to help you survive if you're stuck on a stranded island), Efficiency, Durability, Usefulness
