@@ -58,3 +58,5 @@ Topic: **Fishing**
 ## Part B: possible future technology
 * Idea
   * Detail
+
+Complexity, Age, Popularity, Reliability (most likely to help you survive if you're stuck on a stranded island), Efficiency, Durability, Usefulness
