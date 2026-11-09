@@ -60,14 +60,18 @@ Topic: **Fishing**
 * Least Reliable to Most Reliable
   * Spearfishing
     * Hunting for fish with spears.
+    * Often requires skill and precision.
   * Netting
     * Hauling in a large amount of fish with large nets.
-    * Reliability depends
+    * Reliability depends on the amount of fish in the area.
+* Tied in reliabilty.
   * Hand-gathering, which is gathering sea foods by hand. For example:
     * Picking kelp and shellfish off the beach.
     * Digging for clams or crabs.
-    * Reliability varies depending on the type of area you are dealing with. Oftentimes, the sea foods are in the deeper in the waters.
-  * 
+    * Reliability varies depending on the type of area you are dealing with. Oftentimes, the sea foods are deeper in the waters. Usually, clams could be found at least five feet in the water with low tides.
+  * Angling
+    * The usage of a hook attached to a string that often has bait attached to it OR where you use a rod to fish. This is doing by the usage of fishing rods.
+      
 ## Part B: possible future technology
 
 Reliability (most likely to help you survive if you're stuck on a stranded island), Efficiency, Durability, Usefulness
