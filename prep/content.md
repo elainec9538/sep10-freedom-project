@@ -56,7 +56,8 @@ Topic: **Fishing**
     * entanglement of animals
 
 ## Part B: possible future technology
-* Idea
+### Complexity
+* Most Complex
   * Detail
 
-Complexity, Age, Popularity, Reliability (most likely to help you survive if you're stuck on a stranded island), Efficiency, Durability, Usefulness
+Age, Popularity, Reliability (most likely to help you survive if you're stuck on a stranded island), Efficiency, Durability, Usefulness
