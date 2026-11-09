@@ -72,13 +72,16 @@ Topic: **Fishing**
   * Angling
     * The usage of a hook attached to a string that often has bait attached to it OR where you use a rod to fish. This is doing by the usage of fishing rods.
 
-#### Efficiency
+* Reliability of fishing smart technology
+
+#### Efficiency (including smart tech)
 * Least to Most Efficient
   * 
 ### Durability
 * Least to most durable
   * 
 
-
+### Price Range
+  * Most to Least expensive (Including smart tech)
 ## Part B: possible future technology
 
