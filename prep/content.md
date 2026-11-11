@@ -83,18 +83,23 @@ Topic: **Fishing**
   * [Portable Sonars](https://m.media-amazon.com/images/I/61g8KV0gi+L._AC_SY300_SX300_QL70_FMwebp_.jpg)
     * It does a lot of things like giving us an understanding of the underwater structure, fish activity, depth, and allows you to save locations. It lets you know the places that fishes are more likely to be, which places it at the most useful.
 
-#### Efficiency of the Smart Tech and General Fishing Gadgets
+#### Efficiency of the General Fishing Gadgets
 * Least to Most Efficient
   * Spearfishing
     * Takes a lot of energy because you are throwing it into the water to hit the fish. Not the most efficient now, but before? Sure.
   * Trapping
     * Takes patience and time for something to get trapped.
   * Angling
-    * With bait
+    * One fish at a time.
   * Netting
     * Good for catching a large amount of fish.
-  * 
+  * Hand-gathering
+    * Guarantees that you have sea food at the end of the day.
+
+
+   With fish attractors, the position of angling would be swapped with hand-gathering.
 ### Price Range
-  * Most to Least expensive (Including smart tech)
+* Most to Least expensive (Including smart tech)
+    
 ## Part B: possible future technology
 
