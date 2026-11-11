@@ -58,6 +58,9 @@ Topic: **Fishing**
 ### Sorting:
 #### Reliability and Usefulness (most likely to help you survive if you're stuck on a stranded island)
 * Least Reliable to Most Reliable
+  * Trapping
+    * The usage of traps to catch fish.
+    * Takes a lot of patience. 
   * Spearfishing
     * Hunting for fish with spears.
     * Often requires skill and precision.
@@ -72,15 +75,19 @@ Topic: **Fishing**
   * Angling
     * The usage of a hook attached to a string that often has bait attached to it OR where you use a rod to fish. This is doing by the usage of fishing rods.
 
-* Reliability of fishing smart technology
+* Reliability and Usefulness of Fishing Smart Tech (Least to Most)
+  * [Smart Reels](https://i6.govx.net/images/8388185_kastking-ireel-one-amb-smart-fishing-reels_t683.jpg?v=lusx/XyCEJRAImlO5PEa8A==)
+    * Even though it lets people see patterns in their fishing skills, it doesn't really do much. Besides, you can use telltale signs of the places that you are fishing at for a while and possibly see the patterns.
+  * [Smart Rods](https://i5.walmartimages.com/seo/TACKOBOX-Poletap-Smartrod-Pulse-Spincast-Combo_f6a64eac-85be-492b-99d1-5c8d58da3510.f6fcd4df77988b38e9a835e6e59fe6fc.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)
+    * It tracks the movement of fish and the bites that people may miss. Then again, it depends on how much fish is in the area and if you are using bait to attract the fishes.
+  * [Portable Sonars](https://m.media-amazon.com/images/I/61g8KV0gi+L._AC_SY300_SX300_QL70_FMwebp_.jpg)
+    * It does a lot of things like giving us an understanding of the underwater structure, fish activity, depth, and allows you to save locations. It lets you know the places that fishes are more likely to be, which places it at the most useful.
 
-#### Efficiency (including smart tech)
+#### Efficiency of the Smart Tech and General Fishing Gadgets
 * Least to Most Efficient
-  * 
-### Durability
-* Least to most durable
-  * 
-
+  * Spearfishing
+    * Takes a lot of energy because you are throwing it into the water to hit the fish. Not the most efficient now, but before? Sure.
+  * Trapping
 ### Price Range
   * Most to Least expensive (Including smart tech)
 ## Part B: possible future technology
