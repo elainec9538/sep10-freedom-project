@@ -109,6 +109,6 @@ Topic: **Fishing**
   * Fish Attractors : $20-$350
   * Trapping : $5-$270
   * Hand-gathering : Free
-    
+     * Except if you rent a boat and decide to get some scuba gear to hand gather sea foods in the middle of the ocean, it is free.
 ## Part B: possible future technology
 
