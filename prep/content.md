@@ -54,6 +54,7 @@ Topic: **Fishing**
     * reduce plastic pollution
     * promote sustainable fishing
     * entanglement of animals
+ * Fish Attractor [(link)]{https://mdc.mo.gov/sites/default/files/2023-10/Fish_Attractors.pdf).
 
 ### Sorting:
 #### Reliability and Usefulness (most likely to help you survive if you're stuck on a stranded island)
@@ -74,7 +75,6 @@ Topic: **Fishing**
     * Reliability varies depending on the type of area you are dealing with. Oftentimes, the sea foods are deeper in the waters. Usually, clams could be found at least five feet in the water with low tides.
   * Angling
     * The usage of a hook attached to a string that often has bait attached to it OR where you use a rod to fish. This is doing by the usage of fishing rods.
-
 * Reliability and Usefulness of Fishing Smart Tech (Least to Most)
   * [Smart Reels](https://i6.govx.net/images/8388185_kastking-ireel-one-amb-smart-fishing-reels_t683.jpg?v=lusx/XyCEJRAImlO5PEa8A==)
     * Even though it lets people see patterns in their fishing skills, it doesn't really do much. Besides, you can use telltale signs of the places that you are fishing at for a while and possibly see the patterns.
@@ -88,6 +88,12 @@ Topic: **Fishing**
   * Spearfishing
     * Takes a lot of energy because you are throwing it into the water to hit the fish. Not the most efficient now, but before? Sure.
   * Trapping
+    * Takes patience and time for something to get trapped.
+  * Angling
+    * With bait
+  * Netting
+    * Good for catching a large amount of fish.
+  * 
 ### Price Range
   * Most to Least expensive (Including smart tech)
 ## Part B: possible future technology
