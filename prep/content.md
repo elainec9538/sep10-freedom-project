@@ -100,6 +100,14 @@ Topic: **Fishing**
    With fish attractors, the position of angling would be swapped with hand-gathering.
 ### Price Range
 * Most to Least expensive (Including smart tech)
+  * [Smart Rods](https://i5.walmartimages.com/seo/TACKOBOX-Poletap-Smartrod-Pulse-Spincast-Combo_f6a64eac-85be-492b-99d1-5c8d58da3510.f6fcd4df77988b38e9a835e6e59fe6fc.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF) : $20-$2000+ dollars. The more expensive, the higher end tech it is.
+  * Spearfishing : $22-$1,100+
+  * [Smart Reels](https://i6.govx.net/images/8388185_kastking-ireel-one-amb-smart-fishing-reels_t683.jpg?v=lusx/XyCEJRAImlO5PEa8A==) : $30-$1000+
+  * Angling Rod : $15-$900+
+  * [Portable Sonars](https://m.media-amazon.com/images/I/61g8KV0gi+L._AC_SY300_SX300_QL70_FMwebp_.jpg) : $50-$700+
+  * Fish Attractors : $20-$350
+  * Trapping : $5-$270
+  * Hand-gathering : Free
     
 ## Part B: possible future technology
 
