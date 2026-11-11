@@ -54,7 +54,7 @@ Topic: **Fishing**
     * reduce plastic pollution
     * promote sustainable fishing
     * entanglement of animals
- * Fish Attractor [(link)]{https://mdc.mo.gov/sites/default/files/2023-10/Fish_Attractors.pdf).
+ * Fish Attractor [(link)](https://mdc.mo.gov/sites/default/files/2023-10/Fish_Attractors.pdf).
 
 ### Sorting:
 #### Reliability and Usefulness (most likely to help you survive if you're stuck on a stranded island)
