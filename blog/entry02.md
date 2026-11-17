@@ -11,9 +11,9 @@ The things that I found for fishing were relatively vague and lacking at first, 
   * It discusses things like:
     *  __Electronic Monitoring__ - The use of monitors systems, electronic reports, video cameras, gear sensors, and automated image processing, data collection technologies to improve timeliness, quality and accessibility of data to help fishers obtain more accurate information on fishing.
     *  __Electronic Reporting__ -  More accurate way to collect data from commercial fishing fleets. It used to be jotted down but the creation of tablets and other devices allowed for a more
-      * faster,
-      * efficient,
-      * and collection of accurate data.
+       * faster,
+       * efficient,
+       * and collection of accurate data.
 
 
 [Previous](entry01.md) | [Next](entry03.md)
