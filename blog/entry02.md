@@ -8,6 +8,9 @@ The things that I found for fishing were relatively vague and lacking at first, 
   * This site is good for providing how people are taking initiative towards the problems of fishing like overfishing.
 
 * The next search was **"Fishing Technology Computer,"** which led me to [*(NOAA Fisheries) National Oceanic and Atmospheric Administration Fisheries*](https://www.fisheries.noaa.gov/national/fisheries-observers/electronic-technologies), a website that explains the usage of electronic tools to collect fishery-dependent data.
+  * It discusses things like:
+    *  __Electronic Monitoring__ - The use of monitors systems, electronic reports, video cameras, gear sensors, and automated image processing, data collection technologies to improve timeliness, quality and accessibility of data to help fishers obtain more accurate information on fishing.
+    *  __Electronic Reporting__ -  More accurate way to collect data from commercial fishing fleets 
 
 
 [Previous](entry01.md) | [Next](entry03.md)
