@@ -16,7 +16,7 @@ The things that I found for fishing were relatively vague and lacking at first, 
        * and collection of accurate data.
 
  The software is mostly fishing data collected to monitor fishing or help people fish. Next up, is the hardware.
-  *
+  * A google search I made was
 
 
 [Previous](entry01.md) | [Next](entry03.md)
