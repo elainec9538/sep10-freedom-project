@@ -16,7 +16,7 @@ The things that I found for fishing were relatively vague and lacking at first, 
        * and collection of accurate data.
 
  The software is mostly fishing data collected to monitor fishing or help people fish. Next up, is the hardware.
-  * A google search I made was
+  * A google search I made was  "fishing hardware technology," where I'd find a blog that discusses tech. Here is the link: [Top Fishing Gear Innovations](https://ardentoutdoors.com/blogs/news/top-fishing-gear-innovations-2026?srsltid=AYCX9vKCq2lLV1mgqc4H9SFVHy7AswFFw3FLqebKB5Jd6n6A-XKDBV4f)
 
 
 [Previous](entry01.md) | [Next](entry03.md)
