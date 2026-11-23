@@ -24,6 +24,16 @@ Overall, all these sources were informative and new to me, but, it was fun to kn
 ## Engineering Design Process
 So far, I intend on spreading awareness on what these fishing technologies do and the impact it has on life in the waters alongside how we could transform it into something that would result in less of a destructive impact towards sea life while appealing to the audience. The next stage would be to understand the problems that fishing causes and potential creations that make fishing funner and less negatively effective towards to ecosystem.
 
+## Skills
+#### How to Google
+I know a little bit of this but I feel as I improved since I was able to find alternative resources to better my research by filtering through the articles and cataloging them to different, respective sections to ensure that it was important enough to include.
+
+#### Perseverance
+I felt like I gotten better at this skill since usually, I kept researching despite my burn out from my other school work, part-time employment, extracurricular activities and personal needs. Sometimes I felt like completely giving up and leaving my work behind for another day, but I forced myself to sacrifice my own time to perfect what I am required to out of spite and the fact that I would have to do it again tomorrow with the risk of not being able to get it done in time nor would it be good enough.
+
+## Summary
+Taking all of this in, it makes me consider maybe one day working overseas to catch fish or work in an occupation where I consistently show up despite burn out.
+
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
