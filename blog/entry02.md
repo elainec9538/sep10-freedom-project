@@ -7,11 +7,11 @@ The things that I found for fishing were relatively vague and lacking at first, 
   * This site is good for providing how people are taking initiative towards the problems of fishing like overfishing.
 
 The next search was **"Fishing Technology Computer,"** which led me to [*(NOAA Fisheries) National Oceanic and Atmospheric Administration Fisheries*](https://www.fisheries.noaa.gov/national/fisheries-observers/electronic-technologies), a website that explains the usage of electronic tools to collect fishery-dependent data. It discusses things like:
-    * __Electronic Monitoring__ - The use of monitors systems, electronic reports, video cameras, gear sensors, and automated image processing, data collection technologies to improve timeliness, quality and accessibility of data to help fishers obtain more accurate information on fishing.
-    * __Electronic Reporting__ -  More accurate way to collect data from commercial fishing fleets. It used to be jotted down but the creation of tablets and other devices allowed for a more
-       * faster,
-       * efficient,
-       * and collection of accurate data.
+  * __Electronic Monitoring__ - The use of monitors systems, electronic reports, video cameras, gear sensors, and automated image processing, data collection technologies to improve timeliness, quality and accessibility of data to help fishers obtain more accurate information on fishing.
+  * __Electronic Reporting__ -  More accurate way to collect data from commercial fishing fleets. It used to be jotted down but the creation of tablets and other devices allowed for a more
+    * faster,
+    * efficient,
+    * and collection of accurate data.
 
  The software is mostly fishing data collected to monitor fishing or help people fish. Next up, is the hardware.
   * A google search I made was  "fishing hardware technology," where I'd find a blog that discusses tech. Here is the link: [Top Fishing Gear Innovations](https://ardentoutdoors.com/blogs/news/top-fishing-gear-innovations-2026?srsltid=AYCX9vKCq2lLV1mgqc4H9SFVHy7AswFFw3FLqebKB5Jd6n6A-XKDBV4f)
