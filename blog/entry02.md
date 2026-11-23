@@ -17,7 +17,9 @@ The things that I found for fishing were relatively vague and lacking at first, 
 
  The software is mostly fishing data collected to monitor fishing or help people fish. Next up, is the hardware.
   * A google search I made was  "fishing hardware technology," where I'd find a blog that discusses tech. Here is the link: [Top Fishing Gear Innovations](https://ardentoutdoors.com/blogs/news/top-fishing-gear-innovations-2026?srsltid=AYCX9vKCq2lLV1mgqc4H9SFVHy7AswFFw3FLqebKB5Jd6n6A-XKDBV4f)
-
+    * __[Smart Reels](https://i6.govx.net/images/8388185_kastking-ireel-one-amb-smart-fishing-reels_t683.jpg?v=lusx/XyCEJRAImlO5PEa8A==)__ ($30-$1000+) - tracks the fishing data to help the fisher see what they need to work on.
+    * __[Smart Rods](https://i5.walmartimages.com/seo/TACKOBOX-Poletap-Smartrod-Pulse-Spincast-Combo_f6a64eac-85be-492b-99d1-5c8d58da3510.f6fcd4df77988b38e9a835e6e59fe6fc.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)__ ($20-$170)- has built in sensors that track movement of fishes and detects bites easier
+    * __[Portable Sonars](https://m.media-amazon.com/images/I/61g8KV0gi+L._AC_SY300_SX300_QL70_FMwebp_.jpg)__ ($50-$700) - allows the fisher to see depth changes, identify the underwater structure, spot fish activity and save locations.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
