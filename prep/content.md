@@ -118,4 +118,12 @@ A fishing submarine with trapdoors that could be opened whenever the people want
 
 Decoy fish that has sensors whose difficulty to catch is interchangeable.
 * Helps people practice their fishing skills.
-* Are similar to the actual, live, real fish.
+* Will be very fun and profits would skyrocket.
+* Are similar to the actual, live, real fish that can also act like fishes.
+* However, it tries to run away every time one would try to change the difficulty.
+
+A form of technology to stop the fishes in their place through waves of energy.
+* Makes fish easier to catch by hand.
+* Easier to track.
+* Reduces pollution since people may not lose their items in the water and pollute the waters.
+
