@@ -6,8 +6,7 @@ The things that I found for fishing were relatively vague and lacking at first, 
  * It is a tool for spreading awareness on how fishing impacts the ocean and marine life by showing how it impacts the environment, sharing data and analysis all while governing marine life resources.
  * This site is good for providing how people are taking initiative towards the problems of fishing like overfishing.
 
-The next search was **"Fishing Technology Computer,"** which led me to [*(NOAA Fisheries) National Oceanic and Atmospheric Administration Fisheries*](https://www.fisheries.noaa.gov/national/fisheries-observers/electronic-technologies), a website that explains the usage of electronic tools to collect fishery-dependent data.
-  * It discusses things like:
+The next search was **"Fishing Technology Computer,"** which led me to [*(NOAA Fisheries) National Oceanic and Atmospheric Administration Fisheries*](https://www.fisheries.noaa.gov/national/fisheries-observers/electronic-technologies), a website that explains the usage of electronic tools to collect fishery-dependent data. It discusses things like:
     *  __Electronic Monitoring__ - The use of monitors systems, electronic reports, video cameras, gear sensors, and automated image processing, data collection technologies to improve timeliness, quality and accessibility of data to help fishers obtain more accurate information on fishing.
     *  __Electronic Reporting__ -  More accurate way to collect data from commercial fishing fleets. It used to be jotted down but the creation of tablets and other devices allowed for a more
        * faster,
@@ -20,6 +19,7 @@ The next search was **"Fishing Technology Computer,"** which led me to [*(NOAA F
     * __[Smart Rods](https://i5.walmartimages.com/seo/TACKOBOX-Poletap-Smartrod-Pulse-Spincast-Combo_f6a64eac-85be-492b-99d1-5c8d58da3510.f6fcd4df77988b38e9a835e6e59fe6fc.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)__ ($20-$170)- has built in sensors that track movement of fishes and detects bites easier
     * __[Portable Sonars](https://m.media-amazon.com/images/I/61g8KV0gi+L._AC_SY300_SX300_QL70_FMwebp_.jpg)__ ($50-$700) - allows the fisher to see depth changes, identify the underwater structure, spot fish activity and save locations.
 
+Overall, all these sources were informative and new to me, but, it was fun to know and see what it does to help people fish and understand how to fish in general with sufficent data of how people fish, where the fish are, and the area of where they fish. Therefore, allowing people to improve their skills and obtain an successful catch that they may not have gotten otherwise.
 [Previous](entry01.md) | [Next](entry03.md)
 
 [Home](../README.md)
