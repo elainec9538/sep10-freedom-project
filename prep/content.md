@@ -111,4 +111,11 @@ Topic: **Fishing**
   * Hand-gathering : Free
      * Except if you rent a boat and decide to get some scuba gear to hand gather sea foods in the middle of the ocean, it is free.
 ## Part B: possible future technology
+A fishing submarine with trapdoors that could be opened whenever the people want to. (Idea adapted from Stardew Valley that I thought would be cool to implement in real life)
+* People could fish inside the submarine.
+* Plunge into the waters with gear for protections and swimming in deeper waters and be able to swim back without having to do all the work to swim back down.
+* High quality windows in the submarine so people who only came to accompany the people that are fishing to simply record or enjoy the spectacles of marine life.
 
+Decoy fish that has sensors whose difficulty to catch is interchangeable.
+* Helps people practice their fishing skills.
+* Are similar to the actual, live, real fish.
